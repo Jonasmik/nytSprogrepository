@@ -12,6 +12,7 @@ package sprogskift;
 public class Dansk implements SprogI{
 
 	public void printMenu() {
+            // sup
 		System.out.println("Velkommen til hundeuddelingen");
 		System.out.println("1) vis hundelisten");
 		System.out.println("2) vælg hund");
